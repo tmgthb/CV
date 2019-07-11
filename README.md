@@ -1,6 +1,3 @@
-# machinelearning
-
-
 ## My machine learning blog
 * [Teemu's blog](https://medium.com/@tmmtt/foursquare-places-api-63b8880a6dcd)
 
