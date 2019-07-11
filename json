@@ -1,0 +1,19 @@
+#
+# STEP 1: JSON to Python
+#
+# Import JSON-module
+import json
+#Create JSON entry
+dataset_json =  '{ "City":"Madrid", "temperature":"35", "weather":"sunny"}'
+#Convert JSON into Python dict
+dataset = json.loads(dataset_json)
+#Print the value:
+print(dataset["temperature"]) 
+#
+# STEP 2: Python to JSON
+#
+#Python dict:
+data = '{ "City":"Madrid", "temperature":"35", "weather":"sunny"}'
+# Convert to JSON
+data_json = json.dumps(data)
+print(data_json)
