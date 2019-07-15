@@ -1,5 +1,7 @@
-## My machine learning blog
-* [Teemu's blog](https://medium.com/@tmmtt/foursquare-places-api-63b8880a6dcd)
+## My machine learning blog entries:
+* [Introduction](https://medium.com/@tmmtt/python-packages-84b724179ebf)
+* [Foursquare Places](https://medium.com/@tmmtt/python-packages-foursquare-places-2dbbf370dd4c)
+* [JSON](https://medium.com/@tmmtt/python-packages-json-c70a07fd6eb5)
 
 ## Kaggle
 * [Teemu's Kaggle account](https://www.kaggle.com/tmkggl)
