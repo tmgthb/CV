@@ -6,5 +6,5 @@
 ## Kaggle
 * [Teemu's Kaggle account](https://www.kaggle.com/tmkggl)
 
-## APIs applied
-* [Wiki-section on APIs](https://github.com/tmgthb/machinelearning/wiki/Python-APIs)
+## My machine learning experience
+* [Wiki-section on Python Machine Learning Packages](https://github.com/tmgthb/machinelearning/wiki/Python-APIs)
