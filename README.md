@@ -11,4 +11,4 @@
 * [Teemu's Kaggle account](https://www.kaggle.com/tmkggl)
 
 ## Specializations & Courses
-* [LinkedIn Profile](https://www.linkedin.com/in/teemumaatta/)
+* [Coursera's Deem Learning Specialization]
