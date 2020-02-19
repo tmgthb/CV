@@ -1,3 +1,7 @@
+## LinkedIn account:
+* [Teemu's LinkedIn](https://www.linkedin.com/in/teemumaatta/)
+
+
 ## Blog entries on machine learning:
 * [Introduction](https://medium.com/@tmmtt/python-packages-84b724179ebf)
 * [Foursquare Places](https://medium.com/@tmmtt/python-packages-foursquare-places-2dbbf370dd4c)
