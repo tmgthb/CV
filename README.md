@@ -20,7 +20,7 @@ Algorithms:
 
 
 Python libraries:
-* Tensorflow ([example](https://www.kaggle.com/tmkggl/tensorflow-cnn-hand-digit-recognizer)), Pytorch, Keras, XGBoost, 
+* Tensorflow ([example](https://www.kaggle.com/tmkggl/tensorflow-cnn-hand-digit-recognizer)), Pytorch ([example](https://www.kaggle.com/tmkggl/pytorch-cnn-digit-recognizer)), Keras, XGBoost, 
 * Flask, Jinja2, JSON, SQLite Pandas, Numpy, Regex
 * Visualization: Seaborn, Matplotlib, Bokeh, Dash/Plotly
 * NLP: Pomegranate, NLTK, Gensim, BeautifulSoup
