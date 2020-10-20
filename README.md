@@ -10,7 +10,6 @@
 * [Curated Data Science resources](https://medium.com/@tmmtt/curated-data-science-resources-c12476de006f)
 * [JSON](https://medium.com/@tmmtt/python-packages-json-c70a07fd6eb5)
 * [Foursquare Places](https://medium.com/@tmmtt/python-packages-foursquare-places-2dbbf370dd4c)
-* [Introduction](https://medium.com/@tmmtt/python-packages-84b724179ebf)
 
 
 ## My projects:
