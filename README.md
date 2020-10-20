@@ -36,5 +36,5 @@ Python libraries:
 
 ## My Specializations
 * [Udacity - Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
-* [Coursera's Deem Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [DeepLearning.ai - Depe Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
