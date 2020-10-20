@@ -24,7 +24,7 @@ Python libraries:
 * Flask, Jinja2, JSON, SQLite Pandas, Numpy, Regex
 * Visualization: Seaborn, Matplotlib, Bokeh, Dash/Plotly
 * NLP: Pomegranate, NLTK, Gensim, BeautifulSoup
-* Location: Foursquare, Folium,
+* Location: Foursquare ([example](https://github.com/tmgthb/Foursquare-location-data-app)), Folium,
 
 
 ## My Social Media
