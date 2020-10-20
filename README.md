@@ -14,19 +14,27 @@
 
 
 ## My projects:
-Gradient Boosting:
+Algorithms:
 * [Gradient Boosting: XGBoost - example](https://www.kaggle.com/tmkggl/santander-customer-transaction-prediction-xgboost)
 * [Gradient Boosting: LightGBM - example](https://www.kaggle.com/tmkggl/lightgbm-model-crossvalidation)
 * [Neural networks: Convolutional Neural Network - example](https://www.kaggle.com/tmkggl/tensorflow-cnn-digit-recognizer)
 
 
-## Social Media
+Python libraries:
+* Tensorflow, Pytorch, Keras, XGBoost, 
+* Flask, Jinja2, JSON, SQLite Pandas, Numpy, Regex
+* Visualization: Seaborn, Matplotlib, Bokeh, Dash/Plotly
+* NLP: Pomegranate, NLTK, Gensim, BeautifulSoup
+* Location: Foursquare, Folium,
+
+
+## My Social Media
 * [LinkedIn profile](https://www.linkedin.com/in/teemumaatta/)
 * [Kaggle profile](https://www.kaggle.com/tmkggl)
 * [Medium profile](https://medium.com/@tmmtt)
 
 
-## Specializations
+## My Specializations
 * [Udacity - Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 * [Coursera's Deem Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
