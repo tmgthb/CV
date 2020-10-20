@@ -34,6 +34,6 @@ Python libraries:
 
 
 ## My Specializations
-* [Udacity - Natural Language Processing Nanodegree](https://github.com/tmgthb/NLP-Nanodegree-Udacity-)
-* [DeepLearning.ai - Depe Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [Natural Language Processing Nanodegree (Udacity)](https://github.com/tmgthb/NLP-Nanodegree-Udacity-)
+* [Deep Learning Specialization (DeepLearning.ai)](https://www.coursera.org/specializations/deep-learning)
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
