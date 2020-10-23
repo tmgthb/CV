@@ -1,4 +1,17 @@
+## My Social Media
+* [LinkedIn profile](https://www.linkedin.com/in/teemumaatta/)
+* [Kaggle profile](https://www.kaggle.com/tmkggl)
+* [Medium Blog](https://medium.com/@tmmtt)
+
+
+## My Specializations
+* [Natural Language Processing Nanodegree (Udacity)](https://github.com/tmgthb/NLP-Nanodegree-Udacity-)
+* [Deep Learning Specialization (DeepLearning.ai)](https://www.coursera.org/specializations/deep-learning)
+* [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+
 ## My blog:
+* To read my blog, visit * [Medium Blog](https://medium.com/@tmmtt). 
 * [Perception in NLP](https://medium.com/@tmmtt/perception-in-nlp-822cb157ee0f)
 * [Natural Language Processing Research, Benchmarks and Models](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
 * [Image Recognition](https://medium.com/@tmmtt/what-makes-an-image-recognizer-acf53feb707c)
@@ -12,28 +25,5 @@
 * [Foursquare Places](https://medium.com/@tmmtt/python-packages-foursquare-places-2dbbf370dd4c)
 
 
-## My projects:
-Algorithms:
-* [Gradient Boosting: XGBoost - example](https://www.kaggle.com/tmkggl/santander-customer-transaction-prediction-xgboost)
-* [Gradient Boosting: LightGBM - example](https://www.kaggle.com/tmkggl/lightgbm-model-crossvalidation)
-* [Neural networks: Convolutional Neural Network - example](https://www.kaggle.com/tmkggl/tensorflow-cnn-digit-recognizer)
-
-
-Python libraries:
-* Tensorflow ([example](https://www.kaggle.com/tmkggl/tensorflow-cnn-hand-digit-recognizer)), Pytorch ([example](https://www.kaggle.com/tmkggl/pytorch-cnn-digit-recognizer)), Keras, XGBoost, 
-* Flask, Jinja2, JSON, SQLite Pandas, Numpy, Regex
-* Visualization: Seaborn, Matplotlib, Bokeh, Dash/Plotly
-* NLP: Pomegranate, NLTK, Gensim, BeautifulSoup
-* Location: Foursquare ([example](https://github.com/tmgthb/Foursquare-location-data-app)), Folium,
-
-
-## My Social Media
-* [LinkedIn profile](https://www.linkedin.com/in/teemumaatta/)
-* [Kaggle profile](https://www.kaggle.com/tmkggl)
-* [Medium profile](https://medium.com/@tmmtt)
-
-
-## My Specializations
-* [Natural Language Processing Nanodegree (Udacity)](https://github.com/tmgthb/NLP-Nanodegree-Udacity-)
-* [Deep Learning Specialization (DeepLearning.ai)](https://www.coursera.org/specializations/deep-learning)
-* [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+## My portfolio:
+[Portfolio of projects](https://github.com/tmgthb/portfolio)
