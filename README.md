@@ -3,6 +3,8 @@
 * [Kaggle profile](https://www.kaggle.com/tmkggl)
 * [Medium Blog](https://medium.com/@tmmtt)
 
+## My portfolio:
+[Portfolio of projects](https://github.com/tmgthb/portfolio)
 
 ## My Specializations
 * [Natural Language Processing Nanodegree (Udacity)](https://github.com/tmgthb/NLP-Nanodegree-Udacity-)
@@ -10,8 +12,7 @@
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 
-## My blog:
-* To read my blog, visit * [Medium Blog](https://medium.com/@tmmtt). 
+## My blog entries:
 * [Perception in NLP](https://medium.com/@tmmtt/perception-in-nlp-822cb157ee0f)
 * [Natural Language Processing Research, Benchmarks and Models](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
 * [Image Recognition](https://medium.com/@tmmtt/what-makes-an-image-recognizer-acf53feb707c)
@@ -23,7 +24,3 @@
 * [Curated Data Science resources](https://medium.com/@tmmtt/curated-data-science-resources-c12476de006f)
 * [JSON](https://medium.com/@tmmtt/python-packages-json-c70a07fd6eb5)
 * [Foursquare Places](https://medium.com/@tmmtt/python-packages-foursquare-places-2dbbf370dd4c)
-
-
-## My portfolio:
-[Portfolio of projects](https://github.com/tmgthb/portfolio)
