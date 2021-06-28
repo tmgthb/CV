@@ -4,7 +4,7 @@
 * [Medium Blog](https://medium.com/@tmmtt)
 
 ## My portfolio:
-[Portfolio of projects](https://github.com/tmgthb/portfolio)
+* [Portfolio of projects](https://github.com/tmgthb/portfolio)
 
 ## My Specializations
 * [Natural Language Processing Specialization](https://coursera.org/verify/specialization/35G6LQ8LVACD)
