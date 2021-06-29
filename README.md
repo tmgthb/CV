@@ -27,7 +27,7 @@ The below articles are available in Medium. [This](https://medium.com/@tmmtt/nat
 * 07.09.2019 - "[Python Packages: SQLite](https://medium.com/@tmmtt/sqlite-77c9f6efb2e8)"
 * 01.08.2019 - [Python Packages: Flask](https://medium.com/@tmmtt/python-packages-flask-e315ebe3c38e)
 * 30.07.2019 - [Curated Data Science resources](https://medium.com/@tmmtt/curated-data-science-resources-c12476de006f)
-* 15.07.2019 - "[JSON](https://medium.com/@tmmtt/python-packages-json-c70a07fd6eb5)"
+* 15.07.2019 - "[Python packages: JSON](https://medium.com/@tmmtt/python-packages-json-c70a07fd6eb5)"
 * 15.07.2019 - "[Python packages: Foursquare Places](https://medium.com/@tmmtt/python-packages-foursquare-places-2dbbf370dd4c)"
 * 15.07.2019 - "[Python packages](https://tmmtt.medium.com/python-packages-84b724179ebf)"
 * 17.06.2019 - "[Madrid office location](https://tmmtt.medium.com/python-packages-84b724179ebf)"
