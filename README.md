@@ -2,6 +2,7 @@
 * [LinkedIn profile](https://www.linkedin.com/in/teemumaatta/)
 * [Kaggle profile](https://www.kaggle.com/tmkggl)
 * [Medium Blog](https://medium.com/@tmmtt)
+** Check my latest update on ChatML: https://tmmtt.medium.com/chat-markup-language-chatml-35767c2c69a1
 ** Check my latest update on ChatGPT API: https://medium.com/@tmmtt/whisper-api-speech-to-text-2e7e366f9ec6
 ** Check my latest update on Whisper API: https://tmmtt.medium.com/chatgpt-api-tutorial-3da433eb041e
 
