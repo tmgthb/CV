@@ -2,7 +2,8 @@
 * [LinkedIn profile](https://www.linkedin.com/in/teemumaatta/)
 * [Kaggle profile](https://www.kaggle.com/tmkggl)
 * [Medium Blog](https://medium.com/@tmmtt)
-* 
+
+
 ** Check my latest article on ChatGPT Plugings: (https://tmmtt.medium.com/chatgpt-plugins-8f174eb3be38)
 ** Check my latest article on GPT-4: (https://tmmtt.medium.com/gpt-4-by-openai-bad93fcf6986)
 ** Check my latest article on How to stream ChatGPT API responses? (https://tmmtt.medium.com/how-to-stream-chatgpt-api-responses-b783f1e5f13d)
