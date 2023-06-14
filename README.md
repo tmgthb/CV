@@ -3,6 +3,7 @@
 * [Kaggle profile](https://www.kaggle.com/tmkggl)
 * [Medium Blog](https://medium.com/@tmmtt)
 
+* [Functions with OpenAI API](https://tmmtt.medium.com/functions-with-openai-api-67ea712b9c45)
 * [Add memory to GPT-4](https://tmmtt.medium.com/add-memory-to-gpt-4-d8b34d706f8f)
 * [Prompt engineering with Anthropic API](https://medium.com/@tmmtt/prompt-engineering-with-anthropic-api-361852b30eac)
 * [AutoGPTs are self-healing code generators](https://tmmtt.medium.com/autogpts-are-self-healing-code-generators-ea5fd263dcda)
