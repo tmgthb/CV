@@ -4,17 +4,18 @@
 * [Medium Blog](https://medium.com/@tmmtt)
 
 
-* [Claude 3 Haiku-Vision-Language Model](https://medium.com/@tmmtt/claude-3-haiku-vision-language-model-20dc267d1ac4)
-* [Functions with OpenAI API](https://tmmtt.medium.com/functions-with-openai-api-67ea712b9c45)
-* [Add memory to GPT-4](https://tmmtt.medium.com/add-memory-to-gpt-4-d8b34d706f8f)
-* [Prompt engineering with Anthropic API](https://medium.com/@tmmtt/prompt-engineering-with-anthropic-api-361852b30eac)
-* [AutoGPTs are self-healing code generators](https://tmmtt.medium.com/autogpts-are-self-healing-code-generators-ea5fd263dcda)
-* [Check my latest article on ChatGPT Plugings](https://tmmtt.medium.com/chatgpt-plugins-8f174eb3be38)
-* [Check my latest article on GPT-4](https://tmmtt.medium.com/gpt-4-by-openai-bad93fcf6986)
-* [Check my latest article on How to stream ChatGPT API responses?](https://tmmtt.medium.com/how-to-stream-chatgpt-api-responses-b783f1e5f13d)
-* [Check my latest update on ChatML](https://tmmtt.medium.com/chat-markup-language-chatml-35767c2c69a1)
-* [Check my latest update on ChatGPT API](https://medium.com/@tmmtt/whisper-api-speech-to-text-2e7e366f9ec6)
-* [Check my latest update on Whisper API](https://tmmtt.medium.com/chatgpt-api-tutorial-3da433eb041e)
+
+  * [Claude 3 Haiku-Vision-Language Model](https://medium.com/@tmmtt/claude-3-haiku-vision-language-model-20dc267d1ac4)
+  * [Functions with OpenAI API](https://tmmtt.medium.com/functions-with-openai-api-67ea712b9c45)
+  * [Add memory to GPT-4](https://tmmtt.medium.com/add-memory-to-gpt-4-d8b34d706f8f)
+  * [Prompt engineering with Anthropic API](https://medium.com/@tmmtt/prompt-engineering-with-anthropic-api-361852b30eac)
+  * [AutoGPTs are self-healing code generators](https://tmmtt.medium.com/autogpts-are-self-healing-code-generators-ea5fd263dcda)
+  * [Check my latest article on ChatGPT Plugings](https://tmmtt.medium.com/chatgpt-plugins-8f174eb3be38)
+  * [Check my latest article on GPT-4](https://tmmtt.medium.com/gpt-4-by-openai-bad93fcf6986)
+  * [Check my latest article on How to stream ChatGPT API responses?](https://tmmtt.medium.com/how-to-stream-chatgpt-api-responses-b783f1e5f13d)
+  * [Check my latest update on ChatML](https://tmmtt.medium.com/chat-markup-language-chatml-35767c2c69a1)
+  * [Check my latest update on ChatGPT API](https://medium.com/@tmmtt/whisper-api-speech-to-text-2e7e366f9ec6)
+  * [Check my latest update on Whisper API](https://tmmtt.medium.com/chatgpt-api-tutorial-3da433eb041e)
 
 ## My portfolio:
 * [My projects portfolio](https://github.com/tmgthb/portfolio)
