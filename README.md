@@ -4,7 +4,7 @@
 * [Medium Blog](https://medium.com/@tmmtt)
 
 
-[Claude 3 Haiku-Vision-Language Model](https://medium.com/@tmmtt/claude-3-haiku-vision-language-model-20dc267d1ac4)
+* [Claude 3 Haiku-Vision-Language Model](https://medium.com/@tmmtt/claude-3-haiku-vision-language-model-20dc267d1ac4)
 * [Functions with OpenAI API](https://tmmtt.medium.com/functions-with-openai-api-67ea712b9c45)
 * [Add memory to GPT-4](https://tmmtt.medium.com/add-memory-to-gpt-4-d8b34d706f8f)
 * [Prompt engineering with Anthropic API](https://medium.com/@tmmtt/prompt-engineering-with-anthropic-api-361852b30eac)
