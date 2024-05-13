@@ -4,6 +4,7 @@
 * [Medium Blog](https://medium.com/@tmmtt)
 
 
+  * [GPT-4o (“omni”) — for agents to understand emotions](https://medium.com/@tmmtt/gpt-4o-omni-for-agents-to-understand-emotions-e334d20c6a0f)
   * [Llama 3 via Groq API](https://medium.com/@tmmtt/llama-3-via-groq-api-9d4e5cef3640)
   * [Claude 3 Haiku-Vision-Language Model](https://medium.com/@tmmtt/claude-3-haiku-vision-language-model-20dc267d1ac4)
   * [Functions with OpenAI API](https://tmmtt.medium.com/functions-with-openai-api-67ea712b9c45)
