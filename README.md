@@ -19,7 +19,7 @@
   * [Check my latest update on Whisper API](https://tmmtt.medium.com/chatgpt-api-tutorial-3da433eb041e)
 
 ## My tweets:
-* [Sora release](https://twitter.com/TeemuMtt3/status/1866176403806232924)
+* [The exponential growth of AI models](https://twitter.com/TeemuMtt3/status/1858658297022149107)
 
 ## My portfolio:
 * [My projects portfolio](https://github.com/tmgthb/portfolio)
