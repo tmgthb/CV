@@ -20,6 +20,7 @@
 
 ## My tweets:
 * [The exponential growth of AI models](https://twitter.com/TeemuMtt3/status/1858658297022149107)
+* [Self-Constructive Agents](https://twitter.com/TeemuMtt3/status/1886835252665958902)
 
 ## My portfolio:
 * [My projects portfolio](https://github.com/tmgthb/portfolio)
